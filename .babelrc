@@ -1,0 +1,10 @@
+//le dice a babel que modulos debe de cargar, para usar los import de javascript, por lo que modificamos index
+{
+    "presets": [ 
+        "@babel/env"
+
+    ],
+    "plugins": [
+        "@babel/transform-runtime"
+    ]
+}

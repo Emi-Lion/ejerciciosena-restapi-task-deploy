@@ -1,0 +1,5 @@
+#varaibles de entorno
+.env
+# node, se colocan aqui y no se suben porque pueden volver a instalarse
+node_modules
+dist
